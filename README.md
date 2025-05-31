@@ -135,3 +135,9 @@ En voici quelques exemples:
 Ce projet a été réalisé principalement par Rayan Ajakane, en collaboration avec Yasmine Aouinat pour l'analyse du portefeuille ainsi que Fedwa Bouya et Khai Nguyen pour la rédaction du rapport.
 
 ---
+
+## 📄 Licence
+
+Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour les détails.
+
+---
