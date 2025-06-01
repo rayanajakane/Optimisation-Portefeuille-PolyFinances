@@ -53,19 +53,12 @@ Pour exécuter le [notebook](https://github.com/rayanajakane/Optimisation-Portef
 
 Le projet utilise les librairies Python suivantes pour l'analyse financière et l'optimisation de portefeuille :
 
-### 📊 Visualisation, calculs et analyse de données
-
-- [`matplotlib`](https://matplotlib.org/)
-- [`numpy`](https://numpy.org/)
-- [`pandas`](https://pandas.pydata.org/)
-- [`seaborn`](https://seaborn.pydata.org/)
-
-### 💹 Finance quantitative
-
-- [`pypfopt`](https://pyportfolioopt.readthedocs.io/en/latest/)
-- [`quantstats`](https://github.com/ranaroussi/quantstats)
-- [`scipy.optimize`](https://docs.scipy.org/doc/scipy/reference/optimize.html)
-- [`yfinance`](https://pypi.org/project/yfinance/)
+- [`NumPy`](https://numpy.org/), [`Pandas`](https://pandas.pydata.org/) – Manipulation et analyse des données
+- [`Matplotlib`](https://matplotlib.org/), [`Seaborn`](https://seaborn.pydata.org/) – Visualisation des données et des résultats
+- [`PyPortfolioOpt`](https://pyportfolioopt.readthedocs.io/en/latest/) - Optimisation de portefeuille selon la théorie moderne
+- [`QuantStats`](https://github.com/ranaroussi/quantstats) - Analyse de performance des portefeuilles
+- [`SciPy optimize`](https://docs.scipy.org/doc/scipy/reference/optimize.html) - Résolution de problèmes d’optimisation
+- [`yfinance`](https://pypi.org/project/yfinance/) - Téléchargement de données financières
 
 ---
 
